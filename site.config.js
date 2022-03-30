@@ -1,22 +1,22 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: 'Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',
+  rootNotionPageId: '7875426197cf461698809def95960ebf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lemonhhh has a blog',
-  domain: 'https://www.notion.so/Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',
-  author: 'Lemonhhh',#作者
+  name: 'Transitive Bullshit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'lemonhhh',
+  github: 'transitive-bullshit',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
