@@ -1,14 +1,14 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: 'Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',#notion页面的ID
+  rootNotionPageId: 'Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lemonhhh has a blog',#博客名称
-  domain: 'https://www.notion.so/Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',#notion页面原始链接
+  name: 'Lemonhhh has a blog',
+  domain: 'https://www.notion.so/Lemonhhh-g-blog-5cfcf66c66804b22b375d045abc55ebb',
   author: 'Lemonhhh',#作者
 
   // open graph metadata (optional)
@@ -16,7 +16,7 @@ export default {
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'lemonhhh',#社交账号
+  github: 'lemonhhh',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
