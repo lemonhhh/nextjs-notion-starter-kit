@@ -7,15 +7,15 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
+  name: 'Lemonhhh',
   domain: 'https://www.notion.so/Lemonhhh-5caf8d831c354c559e32a726bd18044d',
-  author: 'Travis Fischer',
+  author: 'Lemonhhh',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'lemonhhh',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
 
