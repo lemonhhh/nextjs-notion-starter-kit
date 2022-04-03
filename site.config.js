@@ -15,8 +15,8 @@ export default {
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'lemonhhh',
-  github: 'transitive-bullshit',
+  twitter: 'LemonHhh3',
+  github: 'lemonhhh',
   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
