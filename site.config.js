@@ -17,7 +17,7 @@ export default {
   // social usernames (optional)
   twitter: 'LemonHhh3',
   github: 'lemonhhh',
-  linkedin: 'fisch2',
+  linkedin: 'lemonhhh',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
