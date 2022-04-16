@@ -12,8 +12,11 @@
 
 ## Intro
 原作者的网站[transitivebullsh.it](https://transitivebullsh.it).
+
 搭建该网站用的代码都在github中。
+
 本repo是在原作者的基础上，进行修改得到的。
+
 原作者使用了[react-notion-x](https://github.com/NotionX/react-notion-x), [Next.js](https://nextjs.org/),  [Vercel](http://vercel.com).
 
 
