@@ -49,7 +49,7 @@
 4. `npm run dev` to test locally
 5. `npm run deploy` to deploy to vercel 💪
 
-I tried to make configuration as easy as possible.
+原作者的readme写得很易读.
 
 All you really need to do to get started is edit `rootNotionPageId`. It defaults to rendering my site's public notion page [78fc5a4b88d74b0e824e29407e9f1ec1](https://notion.so/78fc5a4b88d74b0e824e29407e9f1ec1).
 
