@@ -144,7 +144,7 @@ To enable analytics, just add a `NEXT_PUBLIC_FATHOM_ID` environment variable, wh
 
 Note that this feature is completely optional.
 
-## Contributing
+## 贡献
 
 See the [contribution guide](contributing.md) and join our amazing list of [contributors](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/graphs/contributors)!
 
