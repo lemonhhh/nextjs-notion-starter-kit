@@ -94,8 +94,8 @@ REDIS_PASSWORD='TODO'
 
 Note that preview images and redis caching are both optional features. If you’d rather not deal with them, just disable them in your site config.
 
-## Styles
-
+## 样式Styles
+所有关于Notion内容的CSS样式都在文件[styles/notion.css](./styles/notion.css)中。
 All CSS styles that customize Notion content are located in [styles/notion.css](./styles/notion.css). They mainly target global CSS classes exported by react-notion-x [styles.css](https://github.com/NotionX/react-notion-x/blob/master/packages/react-notion-x/src/styles.css).
 
 Every notion block gets its own unique classname, so you can target individual blocks like this:
