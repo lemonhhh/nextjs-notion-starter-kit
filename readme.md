@@ -128,7 +128,7 @@ If a page has less than `minTableOfContentsItems` (default 3), the table of cont
 
 This table of contents uses the same logic that Notion uses for its built-in Table of Contents block (see [getPageTableOfContents](https://github.com/NotionX/react-notion-x/blob/master/packages/notion-utils/src/get-page-table-of-contents.ts) for the underlying logic).
 
-## Responsive
+## 响应式Responsive
 
 <p align="center">
   <img alt="Mobile article page" src="https://user-images.githubusercontent.com/552829/160132983-c2dd5830-80b3-4a0e-a8f1-abab5dbeed11.jpg" width="300">
