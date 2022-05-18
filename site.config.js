@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: 'Lemonhhh',
-  domain: 'https://www.notion.so/Lemonhhh-5caf8d831c354c559e32a726bd18044d',
+  domain: 'https://dramatic-conga-31d.notion.site/Lemonhhh-5caf8d831c354c559e32a726bd18044d',
   author: 'Lemonhhh',
 
   // open graph metadata (optional)
