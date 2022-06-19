@@ -73,7 +73,7 @@ See [mapPageUrl](./lib/map-page-url.ts) and [getCanonicalPageId](https://github.
 
 NOTE: if you have multiple pages in your workspace with the same slugified name, the app will throw an error letting you know that there are duplicate URL pathnames.
 
-## Preview Images
+## 预览图片
 
 <p align="center">
   <img alt="Example preview image" src="https://user-images.githubusercontent.com/552829/160142320-35343317-aa9e-4710-bcf7-67e5cdec586d.gif" width="458">
