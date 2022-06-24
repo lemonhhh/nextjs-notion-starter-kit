@@ -13,7 +13,7 @@
 ## Intro
 原作者的网站[transitivebullsh.it](https://transitivebullsh.it).
 
-搭建该网站用的代码都在github中。
+搭建该网站用的所有代码都在github中。
 
 本repo是在原作者的基础上，进行修改得到的。
 
