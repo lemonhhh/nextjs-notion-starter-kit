@@ -39,9 +39,9 @@
 - [Default demo](https://nextjs-notion-starter-kit.transitivebullsh.it) - Deployed from the `main` branch
 - [My site](https://transitivebullsh.it) - Deployed from the `transitive-bullshit` branch
 
-## Setup
+## 设置
 
-**All config is defined in [site.config.js](./site.config.js).**
+**所有的配置文件都在这里面： [site.config.js](./site.config.js).**
 
 1. Fork / clone this repo
 2. Change a few values in [site.config.js](./site.config.js)
