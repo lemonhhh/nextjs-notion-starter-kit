@@ -20,16 +20,16 @@
 原作者使用了[react-notion-x](https://github.com/NotionX/react-notion-x), [Next.js](https://nextjs.org/),  [Vercel](http://vercel.com).
 
 
-## Features
+## 特点
 
-- Setup only takes a few minutes ([single config file](./site.config.js)) 💪
+- 几分钟就能完成配置 ([只有一个配置未见](./site.config.js)) 💪
 - Robust support for Notion content via [react-notion-x](https://github.com/NotionX/react-notion-x)
 - Next.js / TS / React / Notion
-- Excellent page speeds
-- Smooth image previews
+- 页面速度快
+- 丝滑的图片预览
 - Automatic pretty URLs
 - Automatic table of contents
-- Full support for dark mode
+- 支持夜间模式
 - Quick search via CMD+K / CMD+P
 - Responsive for different devices
 - Optimized for Next.js and Vercel
@@ -44,14 +44,14 @@
 **所有的配置文件都在这里面： [site.config.js](./site.config.js).**
 
 1. Fork / clone this repo
-2. Change a few values in [site.config.js](./site.config.js)
+2. 更改这个文件里的几个值 [site.config.js](./site.config.js)
 3. `npm install`
 4. `npm run dev` to test locally
 5. `npm run deploy` to deploy to vercel 💪
 
 原作者的readme写得很易读.
 
-All you really need to do to get started is edit `rootNotionPageId`. It defaults to rendering my site's public notion page [78fc5a4b88d74b0e824e29407e9f1ec1](https://notion.so/78fc5a4b88d74b0e824e29407e9f1ec1).
+最重要的、必须要改的是 `rootNotionPageId`. 默认值指向原作者的notion的页面ID[78fc5a4b88d74b0e824e29407e9f1ec1](https://notion.so/78fc5a4b88d74b0e824e29407e9f1ec1).
 
 You'll want to make your root Notion page **public** and then copy the link to your clipboard. Then extract the last part of the URL that looks like `d1b5dcf8b9ff425b8aef5ce6f0730202`, which is your page's Notion iD.
 
