@@ -114,7 +114,7 @@ Every notion block gets its own unique classname, so you can target individual b
   <img alt="Dark Mode" src="https://transitive-bs.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc0839d6c-7141-48df-8afd-69b27fed84aa%2Ftransitivebullsh.it__(1)-opt.jpg?table=block&id=23b11fe5-d6df-422d-9674-39cf7f547523&spaceId=fde5ac74-eea3-4527-8f00-4482710e1af3&width=2000&userId=&cache=v2" width="45%">
 </p>
 
-Dark mode is fully supported and can be toggled via the sun / moon icon in the footer.
+通过页面底部的🌞/🌛来调节。
 
 ## 自动生成文件的目录
 
@@ -124,7 +124,10 @@ Dark mode is fully supported and can be toggled via the sun / moon icon in the f
 
 By default, every article page will have a table of contents displayed as an `aside` on desktop. It uses **scrollspy** logic to automatically update the current section as the user scrolls through your document, and makes it really easy to jump between different sections.
 
-If a page has less than `minTableOfContentsItems` (default 3), the table of contents will be hidden. It is also hidden on the index page and if the browser window is too small.
+不显示table的情况：
+1.If a page has less than `minTableOfContentsItems` (default 3), the table of contents will be hidden.
+2. It is also hidden on the index page
+3. if the browser window is too small.
 
 This table of contents uses the same logic that Notion uses for its built-in Table of Contents block (see [getPageTableOfContents](https://github.com/NotionX/react-notion-x/blob/master/packages/notion-utils/src/get-page-table-of-contents.ts) for the underlying logic).
 
@@ -134,7 +137,7 @@ This table of contents uses the same logic that Notion uses for its built-in Tab
   <img alt="Mobile article page" src="https://user-images.githubusercontent.com/552829/160132983-c2dd5830-80b3-4a0e-a8f1-abab5dbeed11.jpg" width="300">
 </p>
 
-All pages are designed to be responsive across common device sizes.
+所有的页面都可以在各种设备上灵活显示.
 
 ## Fathom Analytics
 
